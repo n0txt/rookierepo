@@ -1,2 +1,2 @@
 # rookierepo
-This is a test repo.
+This is an updated test repo.
